@@ -25,8 +25,7 @@ const AboutPage = () => {
                             <div class="content">
                                 <h3>Home Delivery</h3>
                                 <p>
-                                    sit voluptatem accusantium dolore mque laudantium, totam rem
-                                    aperiam, eaque ipsa quae ab illo.
+                                Experience the convenience and joy of enjoying farm-fresh fruit without leaving the comfort of your home. At Fresh Fruit Hub, we bring nature’s finest directly to your door with our reliable home delivery service.
                                 </p>
                             </div>
                         </div>
@@ -39,8 +38,7 @@ const AboutPage = () => {
                             <div class="content">
                                 <h3>Best Price</h3>
                                 <p>
-                                    sit voluptatem accusantium dolore mque laudantium, totam rem
-                                    aperiam, eaque ipsa quae ab illo.
+                                At Fresh Fruit Hub, we believe that enjoying fresh, high-quality fruit shouldn’t break the bank. That’s why we’re committed to offering the best prices on a wide range of delicious fruits, ensuring you get the most value for your money.
                                 </p>
                             </div>
                         </div>
@@ -53,8 +51,7 @@ const AboutPage = () => {
                             <div class="content">
                                 <h3>Custom Box</h3>
                                 <p>
-                                    sit voluptatem accusantium dolore mque laudantium, totam rem
-                                    aperiam, eaque ipsa quae ab illo.
+                                At Fresh Fruit Hub, we know that everyone has their own unique tastes and preferences. That’s why we offer a personalized fruit box service, allowing you to curate your own selection of premium fruits and create a custom box tailored just for you.
                                 </p>
                             </div>
                         </div>
@@ -67,8 +64,7 @@ const AboutPage = () => {
                             <div class="content">
                                 <h3>Quick Refund</h3>
                                 <p>
-                                    sit voluptatem accusantium dolore mque laudantium, totam rem
-                                    aperiam, eaque ipsa quae ab illo.
+                                At Fresh Fruit Hub, your satisfaction is our top priority. We understand that sometimes things don’t go as planned, and we’re here to ensure that you have a smooth and stress-free experience with our quick refund policy.
                                 </p>
                             </div>
                         </div>

@@ -10,8 +10,9 @@ const Deal = () => {
                 <center>
                     <h1> Deal Of The <span style={{ color: "orange" }}>Month </span>  </h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ut
-                        quibusdam rem eum?
+                    Enjoy the perfect balance of quality and savings with our Deal of the Month.
+                    Ideal for snacking, cooking, or adding a nutritious boost to your diet.
+
                     </p>
                 </center>
                 <div class="container mt-3">
@@ -27,8 +28,9 @@ const Deal = () => {
                         >
                             <h2>Deal Of The Month</h2>
                             <p>
-                                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed tempor
-                                tincidunt turpis, sed posuere metus euismod ac.
+                            Don’t miss our fantastic Deal of the Month! For a limited time only, enjoy exceptional savings on Pineapple—the fruit that’s taking the spotlight this month.
+                    Whether you’re planning a healthy snack, adding a burst of flavor to your recipes, or preparing a special gift, Pineapple is a versatile choice.
+
                             </p>
                             <p class="pt-0">Per Kg</p>
                             <h3 class="pt-0"><b>₹15</b></h3>

@@ -7,8 +7,7 @@ const Testimonial = () => {
                 <center class="mt-5">
                     <h1><span style={{ color: "orange" }}>Our </span> Testimonial</h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ut
-                        quibusdam rem eum?
+                    "Exceptional quality and service! The fruits I received were incredibly fresh and delicious. The delivery was prompt, and the customer service team was very helpful. I highly recommend FreshFruitHub to anyone looking for premium fruit in India!"
                     </p>
                 </center>
                 <div class="container-fluid" style={{ backgroundColor: "rgb(237, 234, 222)" }}>
@@ -27,14 +26,9 @@ const Testimonial = () => {
                                         style={{ height: "330px" }}
                                     />
                                     <div class="card-body">
-                                        <h5 class="card-title">AUSAR</h5>
+                                        <h5 class="card-title">Sneha Rao</h5>
                                         <p class="card-text">
-                                            Ausar is a rapper and singer from Chicago’s South Side and
-                                            South Suburbs. He fell in love with music at a young age,
-                                            initially gaining inspiration from the gospel. With cosigns
-                                            from Lupe Fiasco, 9th Wonder, Rakim, and a premiere on
-                                            Netflix’s Rhythm + Flow — Ausar's performed and worked
-                                            alongside Wyclef 9th Wonder, Rakim, and a premiere on Jean.
+                                        "Exceptional quality and service! The fruits I received were incredibly fresh and delicious. The delivery was prompt, and the customer service team was very helpful. I highly recommend Fresh Fruit Hub to anyone looking for premium fruit in India!"
                                         </p>
                                     </div>
                                 </div>
@@ -52,14 +46,9 @@ const Testimonial = () => {
                                         style={{ height: "330px" }}
                                     />
                                     <div class="card-body">
-                                        <h5 class="card-title">SAGE</h5>
+                                        <h5 class="card-title">Ravindra Patil</h5>
                                         <p class="card-text">
-                                            Sage is a cross disciplinary artist from Louisiana based in
-                                            Los Angeles. His background in performance and dance fuels
-                                            his passion for visual narratives that move people from the
-                                            inside out. Drawing from his southern roots and love of
-                                            fantasy, Jamal loves creating worlds that defy the
-                                            limitations of reality and allow the characters.
+                                        "I was impressed by the variety and quality of fruits available. The custom box option allowed me to select exactly what I wanted, and the prices were very reasonable. I’ll definitely be ordering again. Thank you for such a great experience!"
                                         </p>
                                     </div>
                                 </div>
@@ -77,14 +66,9 @@ const Testimonial = () => {
                                         style={{ height: "330px" }}
                                     />
                                     <div class="card-body">
-                                        <h5 class="card-title">JAMAL WADE</h5>
+                                        <h5 class="card-title">Arjun Mehta</h5>
                                         <p class="card-text">
-                                            Jamal is a cross disciplinary artist from Louisiana based in
-                                            Los Angeles. His background in performance and dance fuels
-                                            his passion for visual narratives that move people from the
-                                            inside out. Drawing from his southern roots and love of
-                                            fantasy, Jamal loves creating worlds that defy the
-                                            limitations of reality and allow the characters.
+                                        "Absolutely delighted with the quick delivery and freshness of the fruit. The apples and oranges were particularly juicy and flavorful. It’s great to have such a reliable source for high-quality fruit right at my doorstep."
                                         </p>
                                     </div>
                                 </div>

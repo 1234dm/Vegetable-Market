@@ -18,7 +18,7 @@ const Footer = () => {
               <ul className="list-unstyled">
                 <li>
                   <i className="fas fa-map-marker-alt pt-3"></i> 123 Main Street,
-                  City, Country
+                  Ahmedabad, India
                 </li>
                 <li><i className="fas fa-envelope pt-3"></i> info@example.com</li>
                 <li><i className="fas fa-phone pt-3"></i> +1 234 567 890</li>

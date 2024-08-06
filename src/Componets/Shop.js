@@ -10,8 +10,7 @@ const Shop = () => {
                 <center>
                     <h1><span style={{color: "orange"}}>Our </span> Product</h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ut
-                        quibusdam rem eum?
+                    Discover the exceptional taste and quality of our Fruit. Sourced from the finest orchards and farms, this fruit offers a delightful blend of freshness and flavor that will elevate any meal or snack.
                     </p>
                 </center>
                 <div className="container mt-5 p-0">

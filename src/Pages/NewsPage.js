@@ -20,8 +20,7 @@ const NewsPage = () => {
                 <center>
                     <h1><span style={{ color: "orange" }}>Our </span> Product</h1>
                     <p>
-                        Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolore ut
-                        quibusdam rem eum?
+                    At Fresh Fruit Hub, we take pride in offering a diverse range of high-quality fruits that cater to all tastes and preferences. Whether you’re looking for everyday favorites or exotic varieties, our carefully curated selection ensures you get the best produce available.
                     </p>
                 </center>
                 <div class="container pb-5">
